@@ -1,2 +1,2 @@
 # repo-2
-Create element animated 
+Create element animated with javascript
